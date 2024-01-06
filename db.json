@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Anja Halonen",
+      "number": "050-123456",
+      "id": 1
+    },
+    {
+      "name": "Maija Nieminen",
+      "number": "040-123456",
+      "id": 2
+    },
+    {
+      "name": "Pekka Koskinen",
+      "number": "11-2789876",
+      "id": 3
+    },
+    {
+      "name": "Harri Virtanen",
+      "number": "39-12345678",
+      "id": 4
+    }
+  ]
+}
